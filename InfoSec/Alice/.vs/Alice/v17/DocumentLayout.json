@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5927\u5B78\\\u8AB2\u7A0B\\\u8CC7\u5B89\\1124\\1124\\D10937114_124\\Alice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A276BC6-7C37-46ED-8489-C56ADD6CCBEA}|Bob\\Bob.csproj|d:\\\u5927\u5B78\\\u8AB2\u7A0B\\\u8CC7\u5B89\\1124\\1124\\d10937114_124\\alice\\bob\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A276BC6-7C37-46ED-8489-C56ADD6CCBEA}|Bob\\Bob.csproj|solutionrelative:bob\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u5927\u5B78\\\u8AB2\u7A0B\\\u8CC7\u5B89\\1124\\1124\\D10937114_124\\Alice\\Bob\\Form1.cs",
+              "RelativeDocumentMoniker": "Bob\\Form1.cs",
+              "ToolTip": "D:\\\u5927\u5B78\\\u8AB2\u7A0B\\\u8CC7\u5B89\\1124\\1124\\D10937114_124\\Alice\\Bob\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Bob\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:03:53.798Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

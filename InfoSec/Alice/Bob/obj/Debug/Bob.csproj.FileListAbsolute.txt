@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\bin\Debug\Bob.exe.config
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\bin\Debug\Bob.exe
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\bin\Debug\Bob.pdb
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.Form1.resources
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.Properties.Resources.resources
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.exe
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Bob\obj\Debug\Bob.pdb

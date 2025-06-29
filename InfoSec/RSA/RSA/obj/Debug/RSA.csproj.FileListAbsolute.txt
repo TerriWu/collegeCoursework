@@ -1,0 +1,7 @@
+D:\大學\課程\InfoSec\RSA\RSA\bin\Debug\RSA.exe.config
+D:\大學\課程\InfoSec\RSA\RSA\bin\Debug\RSA.exe
+D:\大學\課程\InfoSec\RSA\RSA\bin\Debug\RSA.pdb
+D:\大學\課程\InfoSec\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
+D:\大學\課程\InfoSec\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\大學\課程\InfoSec\RSA\RSA\obj\Debug\RSA.exe
+D:\大學\課程\InfoSec\RSA\RSA\obj\Debug\RSA.pdb

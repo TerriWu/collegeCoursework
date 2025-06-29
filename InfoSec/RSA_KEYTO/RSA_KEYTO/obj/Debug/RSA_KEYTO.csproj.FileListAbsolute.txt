@@ -1,0 +1,10 @@
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\bin\Debug\RSA_KEYTO.exe.config
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\bin\Debug\RSA_KEYTO.exe
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\bin\Debug\RSA_KEYTO.pdb
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.csproj.AssemblyReference.cache
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.Form1.resources
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.Properties.Resources.resources
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.csproj.GenerateResource.cache
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.csproj.CoreCompileInputs.cache
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.exe
+D:\大學\課程\InfoSec\RSA_KEYTO\RSA_KEYTO\obj\Debug\RSA_KEYTO.pdb

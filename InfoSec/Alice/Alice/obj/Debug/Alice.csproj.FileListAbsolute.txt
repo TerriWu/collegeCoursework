@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.Form1.resources
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.Properties.Resources.resources
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\Administrator\Desktop\D10937114_124\Alice\Alice\obj\Debug\Alice.pdb

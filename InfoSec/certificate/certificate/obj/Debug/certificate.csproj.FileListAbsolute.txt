@@ -1,0 +1,10 @@
+D:\大學\課程\InfoSec\certificate\certificate\bin\Debug\certificate.exe.config
+D:\大學\課程\InfoSec\certificate\certificate\bin\Debug\certificate.exe
+D:\大學\課程\InfoSec\certificate\certificate\bin\Debug\certificate.pdb
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.csproj.AssemblyReference.cache
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.Form1.resources
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.Properties.Resources.resources
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.csproj.GenerateResource.cache
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.csproj.CoreCompileInputs.cache
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.exe
+D:\大學\課程\InfoSec\certificate\certificate\obj\Debug\certificate.pdb
